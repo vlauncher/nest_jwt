@@ -1,0 +1,21 @@
+# POST http://localhost:8000/auth/register/
+# Content-Type: application/json
+
+# {
+#     "first_name":"Samson",
+#     "last_name":"Amos",
+#     "email":"v2dent@gmail.com",
+#     "password":"Chelsea24462!"
+# }
+
+
+# POST http://localhost:8000/auth/login/
+# Content-Type: application/json
+
+# {
+#     "email":"v2dent@gmail.com",
+#     "password":"Chelsea24462!"
+# }
+
+
+# GET http://localhost:8000/users/
